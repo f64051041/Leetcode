@@ -14,3 +14,4 @@
 ### practise
 1. [Stack Linked List](https://github.com/f64051041/Leetcode/blob/main/Stack_link.cpp)
 2. [Stack Array](https://github.com/f64051041/Leetcode/blob/main/Stack_array.cpp)
+3. [Sort](https://github.com/f64051041/Leetcode/blob/main/Sort.cpp)

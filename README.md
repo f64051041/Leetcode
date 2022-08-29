@@ -5,7 +5,7 @@
 3. [Unique Morse Code Words(804)](https://github.com/f64051041/Leetcode/blob/main/Unique_Morse_Code_Words.cpp)  
 4. [Binary Search(704)](https://github.com/f64051041/Leetcode/blob/main/Binary_Search.cpp)
 5. [Reverse Linked List(26)](https://github.com/f64051041/Leetcode/blob/main/Reverse_Linked_List.cpp)
-
+6. [Power of Two(231)](https://github.com/f64051041/Leetcode/blob/main/Power_of_Two.cpp)
 
 ### Medium
 
